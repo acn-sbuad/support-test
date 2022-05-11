@@ -1,6 +1,6 @@
 # https://github.com/actions/add-to-project#creating-a-pat-and-adding-it-to-your-repository
 
-name: Add bugs to bugs project
+name: Legg til issues med gitt label til project
 
 on:
   issues:

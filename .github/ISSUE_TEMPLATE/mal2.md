@@ -1,8 +1,9 @@
 
 ## Dette er enda en ny mal
 
-[]Linje 1
-[] Linje 2
+- [ ] Test
+- [ ] Linje 1
+- [] Linje 2
 [ ] Linje 3
 [ ] Linje 4
 [ ] Linje 5

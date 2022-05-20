@@ -8,6 +8,9 @@ contact_links:
   - name: Detectron2 Documentation
     url: https://detectron2.readthedocs.io/index.html
     about: Check if your question is answered in tutorials or API docs
+  - name: Dette er helt nytt
+    url: https://github.com/tommyalmendingen/support-test/issues/new?assignees=tommyalmendingen&labels=&template=NyMal.md&title=
+    about: Sjekk om du har svaret!
 
 # Unexpected behaviors & bugs are split to two templates.
 # When they are one template, users think "it's not a bug" and don't choose the template.

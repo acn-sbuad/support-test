@@ -1,7 +1,7 @@
 name: Test JSON Action
 
 on:
-  workflow_dispatch
+  workflow_dispatch:
   issues:
     types: [opened, labeled]
 
